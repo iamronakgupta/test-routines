@@ -54,7 +54,7 @@ end
 
 group :test do
   # Rails 7.2 test runner is incompatible with minitest 6
-  gem "minitest", "~> 5.25"
+  gem "minitest", "~> 6.0"
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
   gem "selenium-webdriver"
