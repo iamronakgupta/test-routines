@@ -17,7 +17,7 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 # json 3.x rejects options Rails 7.2 still passes when encoding
-gem "json", "~> 2.10"
+gem "json", "~> 3.1"
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
