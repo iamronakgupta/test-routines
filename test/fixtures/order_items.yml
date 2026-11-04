@@ -1,0 +1,5 @@
+pending_order_wrap:
+  order: pending_order
+  product: gold_wrap_roll
+  quantity: 2
+  unit_price_cents: 999

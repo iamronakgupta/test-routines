@@ -1,0 +1,6 @@
+pending_order:
+  customer_name: Ada Lovelace
+  customer_email: ada@example.com
+  shipping_address: 1 Paper Street
+  total_cents: 1998
+  status: pending
